@@ -64,9 +64,6 @@ RelVeri+
 ├── cycle_detection.py
 ├── smt_verifier.py
 ├── explanation.py
-├── visualization.py
-├── sample_history.json
-├── requirements.txt
 ├── README.md
 └── docs/
     ├── Project_Report.pdf
