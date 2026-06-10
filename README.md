@@ -70,7 +70,7 @@ RelVeri+
 ├── README.md
 └── docs/
     ├── Project_Report.pdf
-    └── Project_Presentation.pptx
+    
 ```
 
 This structure follows the architecture proposed in the report and separates dependency extraction, verification, and explanation modules.
