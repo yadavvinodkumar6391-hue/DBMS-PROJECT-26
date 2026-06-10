@@ -52,6 +52,32 @@ Visualization & Report
 
 ---
 
+# Repository Structure
+
+```text
+RelVeri+
+│
+├── main.py
+├── dependency_graph.py
+├── hyperpolygraph.py
+├── predicate_edges.py
+├── cycle_detection.py
+├── smt_verifier.py
+├── explanation.py
+├── visualization.py
+├── sample_history.json
+├── requirements.txt
+├── README.md
+└── docs/
+    ├── Project_Report.pdf
+    └── Project_Presentation.pptx
+```
+
+This structure follows the architecture proposed in the report and separates dependency extraction, verification, and explanation modules.
+
+```
+```
+
 # Project Modules
 
 ## 1. SQL Workload Manager
